@@ -4,8 +4,9 @@
 ; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
 ;
 [subrepo]
-	remote = none
+	remote = https://github.com/kenkaijie/multirepo-sub-a.git
 	branch = master
-	commit = 
+	commit = 20e08a9044ea1b54f90cafaa77c3a7fca0189687
 	method = merge
 	cmdver = 0.4.3
+	parent = 089589f5059d74d397979c60c2fa254c74dd131a
