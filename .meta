@@ -1,0 +1,5 @@
+{
+  "projects": {
+    "sharedlibs\\liba": "https://github.com/kenkaijie/multirepo-sub-a"
+  }
+}
