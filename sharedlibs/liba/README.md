@@ -1,3 +1,3 @@
 # Lib A
 
-Readme for lib A.
+The best lib since lib 0.
