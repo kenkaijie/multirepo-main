@@ -1,2 +1,2 @@
 # multirepo-main
-The main repo in a multirepo setup
+The main repo in a multirepo setup.
