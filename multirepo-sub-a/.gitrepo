@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/kenkaijie/multirepo-sub-a.git
+	branch = master
+	commit = e40a437d3788ffb87ea2c80ce40f876d2f184cc7
+	parent = e07392637791f7513e639fb009072c9ff42f6405
+	method = merge
+	cmdver = 0.4.3
