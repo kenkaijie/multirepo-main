@@ -1,0 +1,10 @@
+{
+  "name": "multirepo-main",
+  "version": "0.0.1",
+  "repository": "https://github.com/kenkaijie/multirepo-main.git",
+  "author": "Kenneth Ng <kenneth.ng@procept.com.au>",
+  "license": "MIT",
+  "dependencies": {
+    "multirepo-sub-b": "https://github.com/kenkaijie/multirepo-sub-b.git#semver:^0.2.1"
+  }
+}
