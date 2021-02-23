@@ -1,0 +1,4 @@
+repos:
+- path: sharedlibs\liba
+  track: master
+  url: https://github.com/kenkaijie/multirepo-sub-a.git
