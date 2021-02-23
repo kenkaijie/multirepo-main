@@ -6,7 +6,7 @@
 [subrepo]
 	remote = git@github.com:kenkaijie/multirepo-sub-a.git
 	branch = master
-	commit = f68300dbb82cf53229625c4588d439578ceb3495
-	parent = 5d144d498cd9eb3b0c33339d87ee3141d0eebfb1
+	commit = ad5f85099a2f8c96d822cbf4db505bbdaac4810e
+	parent = 722f7b3a4133d33957050821e1779cfc0f389557
 	method = merge
 	cmdver = 0.4.3
