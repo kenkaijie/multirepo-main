@@ -3,5 +3,8 @@
   "version": "0.0.1",
   "repository": "https://github.com/kenkaijie/multirepo-main.git",
   "author": "Kenneth Ng <kenneth.ng@procept.com.au>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "multirepo-extern-a": "git+ssh://git@github.com:kenkaijie/multirepo-extern-a.git#semver:~1.0.0"
+  }
 }
