@@ -1,4 +1,4 @@
 # external sources
 extern/
-/sharedlibs\liba/
-/sharedlibs\liba/
+sharedlibs/
+sharedlibs/liba/
