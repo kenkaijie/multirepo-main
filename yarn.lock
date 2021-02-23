@@ -2,6 +2,3 @@
 # yarn lockfile v1
 
 
-"multirepo-extern-a@git+ssh://git@github.com:kenkaijie/multirepo-extern-a.git#semver:~1.0.0":
-  version "1.0.0"
-  resolved "git+ssh://git@github.com:kenkaijie/multirepo-extern-a.git#220c8014b4b600065201d22eeea8b0491ad06cd3"
