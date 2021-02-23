@@ -5,8 +5,8 @@
 ;
 [subrepo]
 	remote = git@github.com:kenkaijie/multirepo-sub-a.git
-	branch = feature/FeatureXYZA
-	commit = 55864fb4a300922e37e13e42097bb0889b626852
-	parent = a52549f8eb8f7e2de4f8baa54baf3e9c4cb40349
+	branch = feature/FeatureXYZAB
+	commit = 08da1de72b484fe4e12f10cada490d7324fd1aba
+	parent = 195e00fc489da1902fb4d5db8cde61158ca45910
 	method = merge
 	cmdver = 0.4.3
